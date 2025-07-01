@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=qrio_handout)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![shx's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-shx&hide&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
