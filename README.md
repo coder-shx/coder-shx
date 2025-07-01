@@ -1,6 +1,5 @@
 ## Hi there 👋
 [![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=qrio_handout)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=dianping)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=five_in_a_row)](https://github.com/anuraghazra/github-readme-stats)
