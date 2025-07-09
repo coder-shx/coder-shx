@@ -1,8 +1,8 @@
 ## Hi there 👋
-[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=qrio_handout)](https://github.com/anuraghazra/github-readme-stats)
-[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=five_in_a_row)](https://github.com/anuraghazra/github-readme-stats)
+[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=qrio_handout)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/coder-shx/qrio_handout))
+[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=five_in_a_row)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/coder-shx/five_in_a_row)
 <br>
-[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=dianping)](https://github.com/anuraghazra/github-readme-stats)
+[![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=dianping)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/coder-shx/dianping))
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=coder-shx&show_icons=true&rank_icon=github" />
