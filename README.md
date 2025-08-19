@@ -4,7 +4,7 @@
 <br>
 [![shx's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=coder-shx&show_owner=true&repo=dianping)](https://github.com/coder-shx/dianping)
 <br>
-<a href="https://github.com/coder-shx/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=coder-shx&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
